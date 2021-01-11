@@ -83,4 +83,4 @@ to push "cluster" button again to see the results.
 
 [Kewei Ma](mailto:Kewei.Ma@dal.ca)
 
-[Mir Erfan Gheibi](mailto:egheibi@dal.ca)
+[Mirerfan Gheibi](mailto:egheibi@dal.ca)
