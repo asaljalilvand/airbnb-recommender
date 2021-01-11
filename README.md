@@ -40,9 +40,11 @@ using the toolbox on the top right
 * Airbnb listings
 * Tourist attractions
 * Neighborhoods
-
+![](https://raw.githubusercontent.com/AsalJalilvand/airbnb-recommender/master/screenshots/map.png)
 ## Fitering listings
 Use "Open Sidebar" and use the input form and "filter" button.
+![](https://raw.githubusercontent.com/AsalJalilvand/airbnb-recommender/master/screenshots/filter.png)
+
 ## Filtering area on map
 Use the toolbox on the right of map, the circle icon for drawing a circle, 
 edit and trash buttons for editing and removing the circle. Once you defined
@@ -50,10 +52,11 @@ the circle, use "Filter Area(Select on map)" button for filterin.
 <br>
 * If you deleted a circle, please use "Filter Area(Select on map)" button again
 to see all airbnbs in the map again.
-  
+![](https://raw.githubusercontent.com/AsalJalilvand/airbnb-recommender/master/screenshots/area_filter.PNG)  
 ## Airbnb review sentiment analysis
 Select an Airbnb from the listings and click on the "Analyze reviews" button
 on the pop-up.
+![](https://raw.githubusercontent.com/AsalJalilvand/airbnb-recommender/master/screenshots/sentiment.png)
 
 ## Clustering
 Select number of clusters with "Number of K-Means clusters" input and 
@@ -63,10 +66,15 @@ to push "cluster" button again to see the results.
 
 **clustering**
 
+![](https://raw.githubusercontent.com/AsalJalilvand/airbnb-recommender/master/screenshots/clustering.png)
+
 **cluster analysis**
+
+![](https://raw.githubusercontent.com/AsalJalilvand/airbnb-recommender/master/screenshots/cluster_analysis.png)
 
 **adjusting weight of attributes**
 
+![](https://raw.githubusercontent.com/AsalJalilvand/airbnb-recommender/master/screenshots/weight_adjust.png)
 
 ## Contributors
 [Soheil Latifi](mailto:Soheil.Latifi@dal.ca)
