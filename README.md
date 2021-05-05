@@ -16,7 +16,7 @@ some good results in terms of accuracy. Using the recommender system,
 the searchspace for the users will be narrowed down to a select set of 
 options to choose from among them.
 
-[Live Demo on Heroku](airbnb-recommender.herokuapp.com)
+[Live Demo on Heroku](https://airbnb-recommender.herokuapp.com)
 
 ## Running the project:
 ```
